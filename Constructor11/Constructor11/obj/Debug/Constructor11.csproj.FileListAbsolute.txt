@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\Desktop\Csharp\Constructor11\Constructor11\bin\Debug\Constructor11.exe.config
+C:\Users\Tech-Guru\Desktop\Csharp\Constructor11\Constructor11\bin\Debug\Constructor11.exe
+C:\Users\Tech-Guru\Desktop\Csharp\Constructor11\Constructor11\bin\Debug\Constructor11.pdb
+C:\Users\Tech-Guru\Desktop\Csharp\Constructor11\Constructor11\obj\Debug\Constructor11.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\Desktop\Csharp\Constructor11\Constructor11\obj\Debug\Constructor11.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\Desktop\Csharp\Constructor11\Constructor11\obj\Debug\Constructor11.exe
+C:\Users\Tech-Guru\Desktop\Csharp\Constructor11\Constructor11\obj\Debug\Constructor11.pdb
