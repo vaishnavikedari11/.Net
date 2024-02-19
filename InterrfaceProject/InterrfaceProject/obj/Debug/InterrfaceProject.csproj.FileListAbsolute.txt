@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\Desktop\Csharp\InterrfaceProject\InterrfaceProject\bin\Debug\InterrfaceProject.exe.config
+C:\Users\Tech-Guru\Desktop\Csharp\InterrfaceProject\InterrfaceProject\bin\Debug\InterrfaceProject.exe
+C:\Users\Tech-Guru\Desktop\Csharp\InterrfaceProject\InterrfaceProject\bin\Debug\InterrfaceProject.pdb
+C:\Users\Tech-Guru\Desktop\Csharp\InterrfaceProject\InterrfaceProject\obj\Debug\InterrfaceProject.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\Desktop\Csharp\InterrfaceProject\InterrfaceProject\obj\Debug\InterrfaceProject.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\Desktop\Csharp\InterrfaceProject\InterrfaceProject\obj\Debug\InterrfaceProject.exe
+C:\Users\Tech-Guru\Desktop\Csharp\InterrfaceProject\InterrfaceProject\obj\Debug\InterrfaceProject.pdb
