@@ -1,0 +1,7 @@
+C:\Users\Tech-Guru\Desktop\Csharp\Enumeration\Enumeration\bin\Debug\Enumeration.exe.config
+C:\Users\Tech-Guru\Desktop\Csharp\Enumeration\Enumeration\bin\Debug\Enumeration.exe
+C:\Users\Tech-Guru\Desktop\Csharp\Enumeration\Enumeration\bin\Debug\Enumeration.pdb
+C:\Users\Tech-Guru\Desktop\Csharp\Enumeration\Enumeration\obj\Debug\Enumeration.csproj.AssemblyReference.cache
+C:\Users\Tech-Guru\Desktop\Csharp\Enumeration\Enumeration\obj\Debug\Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\Tech-Guru\Desktop\Csharp\Enumeration\Enumeration\obj\Debug\Enumeration.exe
+C:\Users\Tech-Guru\Desktop\Csharp\Enumeration\Enumeration\obj\Debug\Enumeration.pdb
